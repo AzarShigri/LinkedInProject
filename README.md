@@ -99,4 +99,3 @@ React Native Developer
 This project is open-source and available for learning purposes.
 
 
-Bas isko `README.md` file me paste kar do GitHub par.
